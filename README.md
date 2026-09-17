@@ -17,9 +17,11 @@ it uses Python 3.14.7 and Python library called "Random".
         "git clone https://github.com/ruslanmatkovskyi/math-quiz-game.git ~/
     
   - go to the repositories directory:
+    
         "cd math-quiz-game"
 
  to run game, you need to type this command: 
+ 
      "python game.py"
 
 # Author & Contact Info
