@@ -13,6 +13,7 @@ it uses Python 3.14.7 and Python library called "Random".
 # Installation and Programm running
  to install program you need these commands:
   - clone repository in your directory(for example, your home directory):
+    
         "git clone https://github.com/ruslanmatkovskyi/math-quiz-game.git ~/
     
   - go to the repositories directory:
